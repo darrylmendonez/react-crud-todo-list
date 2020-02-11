@@ -1,3 +1,7 @@
+# React Redux Crud Todo List
+
+A CRUD Todo List app created in React using Redux for state management. A user can create, read, update, and delete tasks.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

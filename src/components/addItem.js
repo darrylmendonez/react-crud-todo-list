@@ -45,7 +45,7 @@ class AddItem extends Component {
     const { list } = this.props;
     this.currentItem = list.editItemStatus.currentItem;
     return (
-        <div className="col-md-3">
+        <div className="col-md-2">
         { list.editItemStatus.isUserEditing ?
           <div className="card">
             <div className="card-header">

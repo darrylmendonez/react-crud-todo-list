@@ -13,7 +13,7 @@ class App extends Component {
         <div className="container">
           <br/>
           <div className="row">
-            <div className="col-md-6 offset-md-3">
+            <div className="col-md-6 offset-md-2">
               <div className="card">
                 <div className="card-header">
                   {list.title}

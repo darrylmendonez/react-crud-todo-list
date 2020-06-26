@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/darrylmendonez/react-crud-todo-list/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/darrylmendonez/react-crud-todo-list/static/js/main.d92a5a8d.chunk.js",
+    "main.js.map": "/darrylmendonez/react-crud-todo-list/static/js/main.d92a5a8d.chunk.js.map",
+    "runtime-main.js": "/darrylmendonez/react-crud-todo-list/static/js/runtime-main.1fe044da.js",
+    "runtime-main.js.map": "/darrylmendonez/react-crud-todo-list/static/js/runtime-main.1fe044da.js.map",
+    "static/js/2.8482d346.chunk.js": "/darrylmendonez/react-crud-todo-list/static/js/2.8482d346.chunk.js",
+    "static/js/2.8482d346.chunk.js.map": "/darrylmendonez/react-crud-todo-list/static/js/2.8482d346.chunk.js.map",
+    "index.html": "/darrylmendonez/react-crud-todo-list/index.html",
+    "precache-manifest.ee5ce1646adbeccfd05dae4643dcf118.js": "/darrylmendonez/react-crud-todo-list/precache-manifest.ee5ce1646adbeccfd05dae4643dcf118.js",
+    "service-worker.js": "/darrylmendonez/react-crud-todo-list/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/darrylmendonez/react-crud-todo-list/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8482d346.chunk.js.LICENSE.txt": "/darrylmendonez/react-crud-todo-list/static/js/2.8482d346.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fe044da.js",
+    "static/js/2.8482d346.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d92a5a8d.chunk.js"
+  ]
+}

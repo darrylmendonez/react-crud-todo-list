@@ -12,13 +12,6 @@ export const deleteItem = (id) => {
   }
 }
 
-// export const editItem = (id) => {
-//   return {
-//     type: 'LAUNCH_EDITOR',
-//     id
-//   }
-// }
-
 export const launchEditor = (id) => {
   return {
     type: 'LAUNCH_EDITOR',
